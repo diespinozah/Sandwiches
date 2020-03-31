@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">LOS FINOS</string>
+    <string name="btn_sandwiches">SANDWICHES</string>
+    <string name="btn_about">SOBRE NOSOTROS</string>
+    <string name="str_logo">LOGO DE LA EMPRESA</string>
+    <string name="str_about">LOS FINOS SANDWICHES CON MAS DE 50 AÑOS DE EXISTENCIA EN LA CIUDAD TE TRAE LOS SANDWICHES MAS FINOS DE LA ZONA, ¡NO TE LO PIERDAS! </string>
+    <string name="str_italiano_nombre">CHURRASCO ITALIANO</string>
+    <string name="int_italiano_img_id">1</string>
+    <string name="str_italiano_descripcion">SANDWICH DE CHURRASCO + MAYONESA CASERA + PALTA + TOMATE</string>
+    <string name="int_italiano_precio">4990</string>
+    <string name="str_chacarero_nombre">CHACARERO</string>
+    <string name="int_chacarero_img_id">2</string>
+    <string name="str_chacarero_descripcion">SANDWICH DE CHURRASCO + AJI VERDE PICADO + POROTES VERDES + TOMATE</string>
+    <string name="int_chacarero_precio">4590</string>
+    <string name="str_barrosluco_nombre">BARROS LUCO</string>
+    <string name="int_barrosluco_img_id">3</string>
+    <string name="str_barrosluco_descripcion">SANDWICH DE CHURRASCO O LOMITO + QUESO DERRETIDO</string>
+    <string name="int_barrosluco_precio">3990</string>
+    <string name="str_barrosjarpa_nombre">BARROS JARPA</string>
+    <string name="int_barrosjarpa_img_id">4</string>
+    <string name="str_barrosjarpa_descripcion">SANDWICH DE JAMON CALIENTE + QUESO DERRETIDO</string>
+    <string name="int_barrosjarpa_precio">3590</string>
+    <string name="str_vegetariano_nombre">SANDWICH VEGETARIANO</string>
+    <string name="int_vegetariano_img_id">5</string>
+    <string name="str_vegetariano_descripcion">HAMBURGUESA DE SOYA + CHAMPIÑONES + PALTA + TOMATE</string>
+    <string name="int_vegetariano_precio">4990</string>
+    <string name="navbar_sandwiches">SANDWICHES</string>
+</resources>
